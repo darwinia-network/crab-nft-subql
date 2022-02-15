@@ -1,8 +1,8 @@
 specVersion: 0.2.0
 name: subql-crab-nft
 version: 0.0.4
-description: This SubQuery project can be use as a st...
-repository: https://github.com/subquery/kusama-subql-starters
+description: Crab Plo NFT claim address remark
+repository: https://github.com/darwinia-network/subql-crab-nft.git
 schema:
   file: ./schema.graphql
 network:

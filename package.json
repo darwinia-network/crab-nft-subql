@@ -1,7 +1,7 @@
 {
   "name": "subql-crab-nft",
   "version": "0.0.4",
-  "description": "Crab PLO nft claim address remark",
+  "description": "Crab Plo NFT claim address remark",
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc -b",
@@ -9,14 +9,14 @@
     "test": "jest",
     "codegen": "./node_modules/.bin/subql codegen"
   },
-  "homepage": "https://github.com/subquery/kusama-subql-starter",
-  "repository": "github:subquery/kusama-subql-starter",
+  "homepage": "https://github.com/darwinia-network/subql-crab-nft",
+  "repository": "https://github.com/darwinia-network/subql-crab-nft.git",
   "files": [
     "dist",
     "schema.graphql",
     "project.yaml"
   ],
-  "author": "SubQuery Network",
+  "author": "Darwinia Network",
   "license": "MIT",
   "devDependencies": {
     "@polkadot/api": "^7",
